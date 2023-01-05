@@ -1,2 +1,2 @@
 # prueba-tecnica
-Prueba técnica con C#
+Technical test with C#
