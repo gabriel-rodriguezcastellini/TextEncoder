@@ -4,6 +4,6 @@
 
 .NET text encoder
 
-## Build Status (GitHub Actions)
+## Status (GitHub Actions)
 
-[![.NET](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/dotnet.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/dotnet.yml) [![CodeQL](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/codeql.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/textEncoder/actions/workflows/codeql.yml)
